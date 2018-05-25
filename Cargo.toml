@@ -1,0 +1,6 @@
+[package]
+name = "rsproj"
+version = "0.1.0"
+authors = ["Tony <Qiles@gmail.com>"]
+
+[dependencies]
