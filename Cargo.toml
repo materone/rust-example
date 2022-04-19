@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Tony <Qiles@gmail.com>"]
 
 [dependencies]
+rand = "0.8.4"
+websocket = "0.26.4"
